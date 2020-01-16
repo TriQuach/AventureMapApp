@@ -1,0 +1,41 @@
+PODS:
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - M13Checkbox (3.2.1)
+  - Polyline (4.2.0)
+  - SigmaSwiftStatistics (7.0.2)
+  - UICheckbox.Swift (1.0.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - M13Checkbox
+  - Polyline (~> 4.0)
+  - SigmaSwiftStatistics (~> 7.0)
+  - UICheckbox.Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - M13Checkbox
+    - Polyline
+    - SigmaSwiftStatistics
+    - UICheckbox.Swift
+
+SPEC CHECKSUMS:
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  M13Checkbox: 12376f5b128189432508c240e4a36dc945ab7e4e
+  Polyline: 3d69f75bb136357e27291d439d0436c6ebda57a4
+  SigmaSwiftStatistics: 6897d572d7e52c70dc60814526e931540aa25d08
+  UICheckbox.Swift: 85715689206fac5bae38b308f19c2a3e00442c3b
+
+PODFILE CHECKSUM: c04c0440d5329b730fee1cd5c87cdf167f9fe38c
+
+COCOAPODS: 1.5.3
